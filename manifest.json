@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
-    "name": "Nukem",
-    "short_name": "Nukem",
+    "name": "Nukelm",
+    "short_name": "Nukelm",
     "description": "Remove elements from web pages permanently",
     "version": "0.6",
     "author": "Gruntfuggly",
@@ -44,7 +44,7 @@
                 "jquery-3.1.1.slim.min.js",
                 "nukem.js"
             ],
-            "run_at": "document_end"
+            "run_at": "document_start"
         }
     ]
 }
